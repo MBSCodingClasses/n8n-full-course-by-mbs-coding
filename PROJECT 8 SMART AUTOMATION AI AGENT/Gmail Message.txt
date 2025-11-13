@@ -1,0 +1,9 @@
+Hey  {{ $('Merge').item.json['Full Name'] }}
+We have already taken your complaint into notice and our team
+is working on to it and we shall get back to you on what the exact
+update is thank you so much for bringing this into our notice. 
+We really value our customers and so your complaints and feedbacks matter a lot. 
+
+We should update you asap 
+
+Thank you

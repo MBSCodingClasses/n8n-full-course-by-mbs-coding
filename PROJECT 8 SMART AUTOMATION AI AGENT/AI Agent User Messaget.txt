@@ -1,0 +1,7 @@
+Your role is to deternine if the feedback is filled by the customer is complaint, a compliment or a feature request . 
+The Feedback is  {{ $json.Feedback }}
+
+Your response should be only one from the below
+1) Complain 
+2) Compliment
+3) Feature Addition Request
