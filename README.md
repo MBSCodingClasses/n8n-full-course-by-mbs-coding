@@ -2,8 +2,8 @@
 
 Automate everything using **n8n** — Learn to build AI-powered automation systems step by step.
 
-🎥 **Watch Full Course:** [YouTube Video Link](https://youtube.com/@MBSCoding)  
-📂 **Complete Playlist:** [N8N Full Course Playlist](https://youtube.com/@MBSCoding/playlists)
+🎥 **Watch Full Course:** [YouTube Video Link](https://youtube.com/playlist?list=PLqj8-TO8ccMZOOTcpdepTbPNA4jIXM1Ce&si=6ab-wxF2nIVKJ21K)  
+📂 **Complete Playlist:** [N8N Full Course Playlist](https://youtube.com/playlist?list=PLqj8-TO8ccMZOOTcpdepTbPNA4jIXM1Ce&si=6ab-wxF2nIVKJ21K)
 
 ---
 
@@ -14,12 +14,19 @@ Automate everything using **n8n** — Learn to build AI-powered automation syste
 3. 📈 Tesla Live Price Tracker (Grok + SERP API)  
 4. 📦 Inventory Management System  
 5. 💬 WhatsApp AI Agent (Gemini + Meta for Business)
+6. 🤖 Telegram AI Agent
+7. 👥 Customer Data AI Agent
+8. ⚙️ Smart Automation AI Agent
+9. 🧩 First RAG AI Agent
 
 ---
 
 ## 📁 Included Materials
 - System prompts  
-- Google Sheet templates  
+- Google Sheet templates
+- Knowledge Base 1 (.pdf)
+- Pinecone Vector Store Description (.txt)
+
 ---
 
 ## ⚙️ How to Use
